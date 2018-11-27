@@ -12,7 +12,7 @@ function createWindow() { // Create the browser window.
     })
 
     // load the index.html of the app.
-    mainWindow.loadFile('index.html')
+    mainWindow.loadURL('https://www.google.com/')
 
     // Open the DevTools.
     // mainWindow.webContents.openDevTools()
