@@ -1,0 +1,19 @@
+{
+    "name": "webrtc",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": "",
+    "keywords": [
+        "Electron",
+        "WebRTC"
+    ],
+    "author": "GitHub",
+    "license": "CC0-1.0",
+    "devDependencies": {
+        "electron": "^3.0.7"
+    }
+}
